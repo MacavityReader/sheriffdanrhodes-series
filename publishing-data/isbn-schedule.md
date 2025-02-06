@@ -8,7 +8,7 @@ Sheriff Dan Rhodes Series
 ISBN Titles 0-99  
 Crossroad Press  
   
-  
+
 | ISBN               | Book # |      Book Type         | Title                      |
 | :-----------       | :---:  |       :---------       | :-------------------------:| 
 | 979 -8-89748-900-8 |	1     | ebook                  | Too Late To Die            |  
@@ -19,20 +19,19 @@ Crossroad Press
 | 979 -8-89748-905-3 |	2     | audiobook              | Shotgun Saturday Night     | 
 | 979 -8-89748-906-0 |	2     | mass market paperback  | Shotgun Saturday Night     | 
 | 979 -8-89748-907-7 |	2     | hardcover              | Shotgun Saturday Night     | 
-| 979 -8-89748-908-4 |	2     | ebook                  | Cursed To Death            | 
-| 979 -8-89748-909-1 |	2     | audiobook              | Cursed To Death            | 
-| 979 -8-89748-910-7 |	2     | mass market paperback  | Cursed To Death            | 
-| 979 -8-89748-911-4 |	2     | hardcover              | Cursed To Death            | 
+| 979 -8-89748-908-4 |	3     | ebook                  | Cursed To Death            | 
+| 979 -8-89748-909-1 |	3     | audiobook              | Cursed To Death            | 
+| 979 -8-89748-910-7 |	3     | mass market paperback  | Cursed To Death            | 
+| 979 -8-89748-911-4 |	3     | hardcover              | Cursed To Death            | 
+| 979 -8-89748-912-1 |	4     | ebook                  | Death On The Move          | 
+| 979 -8-89748-913-8 |	4     | audiobook              | Death On The Move          |  
+| 979 -8-89748-914-5 |	4     | mass market paperback  | Death On The Move          | 
+| 979 -8-89748-915-2 |	5     | hardcover              | Death On The Move          | 
+| 979 -8-89748-916-9 |	5     | ebook                  | Booked For A Hanging       | 
+| 979 -8-89748-917-6 |	5     | audiobook              | Booked For A Hanging       |  
+| 979 -8-89748-918-3 |	5     | mass market paperback  | Booked For A Hanging       |  
+| 979 -8-89748-919-0 |	5     | hardcover              | Booked For A Hanging       | 
 
-
-| 979 -8-89748-912-1	4	Shotgun Saturday Night	ebook
-| 979 -8-89748-913-8	4	Shotgun Saturday Night	audiobook
-| 979 -8-89748-914-5	2	Shotgun Saturday Night	mass market paperback
-| 979 -8-89748-915-2	4	Shotgun Saturday Night	hardcover
-| 979 -8-89748-916-9	5	Too Late To Die	ebook
-| 979 -8-89748-917-6	5	Too Late To Die	audiobook
-| 979 -8-89748-918-3	5	Too Late To Die	mass market paperback
-| 979 -8-89748-919-0	5	Too Late To Die	hardcover
 | 979 -8-89748-920-6	6	Shotgun Saturday Night	ebook
 | 979 -8-89748-921-3	6	Shotgun Saturday Night	audiobook
 | 979 -8-89748-922-0	6	Shotgun Saturday Night	mass market paperback
