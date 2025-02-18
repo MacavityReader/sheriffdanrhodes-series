@@ -6,7 +6,7 @@ Sheriff Dan Rhodes Series
   
 Sheriff Dan Rhodes Series  
 25 Titles   
-`ebook | audiobook | mass market paperback | hardcover`  
+`ebook | audiobook | hardcover | mass market paperback `  
 ISBN Titles 0-99  
 *Crossroad Press*  
   
