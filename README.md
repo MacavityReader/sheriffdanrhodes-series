@@ -10,7 +10,7 @@ Publicly available publishing data for readers, authors and publishers of the Sh
   
 **Publishing Data**  
  + [ISBN Schedule](https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/publishing-data/isbn-schedule.md)  
- + Metadata (https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/publishing-data/metadata/)  
+ + [Metadata](https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/publishing-data/metadata/)  
    
 ***
 
