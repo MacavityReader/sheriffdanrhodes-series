@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Death By Accident-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 09-->
+<!--paperback-->
+<ONIXMessage release="3.0">
+  <Header>
+    <Sender>
+      <SenderName></SenderName>
+      <ContactName></ContactName>
+      <EmailAddress></EmailAddress>
+    </Sender>
+    <SentDateTime></SentDateTime>
+  </Header>
+  <Product>
+    <RecordReference>com.macavityreader.onix.89748935.paperback</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>01</ProductIDType>
+      <IDTypeName>ONIX_NOSEQ</IDTypeName>
+      <IDValue>9e529f71-7c81-4cfc-a0cb-f382d3aa8b1a</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9798897489350</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9798897489350</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BC</ProductForm>
+      <ProductFormDetail>B101</ProductFormDetail>
+      <ProductPackaging>00</ProductPackaging>
+      <PrimaryContentType>10</PrimaryContentType>
+      <Measure>
+        <MeasureType>01</MeasureType>
+        <Measurement>7</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>02</MeasureType>
+        <Measurement>4.25</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>03</MeasureType>
+        <Measurement>0.50</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>08</MeasureType>
+        <Measurement>0.5</Measurement>
+        <MeasureUnitCode>lb</MeasureUnitCode>
+      </Measure>
+      <CountryOfManufacture>US</CountryOfManufacture>
+      <EpubTechnicalProtection>00</EpubTechnicalProtection>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <PartNumber>9</PartNumber>
+            <NoPrefix />
+            <TitleWithoutPrefix>Death By Accident</TitleWithoutPrefix>
+          </TitleElement>
+          <TitleElement>
+            <TitleElementLevel>01</TitleElementLevel>
+            <PartNumber>Book 9 of 25</PartNumber>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <PartNumber>9</PartNumber>
+          <NoPrefix />
+          <TitleWithoutPrefix>Death By Accident</TitleWithoutPrefix>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Bill Crider</PersonName>
+        <PersonNameInverted>Crider, Bill</PersonNameInverted>
+        <NamesBeforeKey>Bill</NamesBeforeKey>
+        <KeyNames>Crider</KeyNames>
+        <BiographicalNote textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </BiographicalNote>
+        <Website>
+          <WebsiteRole>13</WebsiteRole>
+          <WebsiteLink>https://sheriffdanrhodes.com</WebsiteLink>
+        </Website>
+        <ContributorPlace>
+          <ContributorPlaceRelator>07</ContributorPlaceRelator>
+          <CountryCode>US</CountryCode>
+        </ContributorPlace>
+      </Contributor>
+      <EditionNumber>1</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>280</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC022020</SubjectCode>
+        <SubjectHeadingText>FICTION / Mystery &amp; Detective / Police Procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>FFP</SubjectCode>
+        <SubjectHeadingText>Crime and mystery: police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>11</SubjectSchemeIdentifier>
+        <SubjectCode>4.0.1.5.8.0.0</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>1KBBSX</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Sheriff Dan Rhodes; Blacklin Co.; police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <MainSubject />
+        <SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+        <SubjectCode>1KBB-US-SWT</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          Texas Sheriff Dan Rhodes' cases usually concern the bad boys of rural Blacklin County, or the slightly wacky citizens who are causing trouble that tends to be funny rather than criminal. But although at first the dead man floating in the old swimming pool at the edge of town seems to have been an accident victim — a staggering drunk tumbling into the water — Rhodes and his small but colorful staff soon uncover murder. 
+
+          It's the second strange death in two weeks (the other was that of John West, killed when he blew up carrying a gasoline can across a field). But where was the Cherokee wagon John was carrying the gas to? And why is his widow so jaunty? West was a solid citizen; Pep Yeldell, the swimming pool decedent, was a man with many enemies. In his quiet way, Rhodes goes about looking for a connection and a killer — a quest that takes Rhodes, no athlete now in spite of his wife's efforts to keep him on a diet of little meat and lots of greens, up a tree and puts him at the mercy of a vicious killer.
+        </Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          This is the ninth novel featuring Texan Dan Rhodes, a small-town sheriff faced with big-city problems—in this case, two suspicious "accidental" deaths within two weeks, not to mention a squabble between two local historical societies that threatens to get nasty (and violent) at any moment. This is a gentle mystery more concerned with character and story than gunplay and tough-guy cliches. Rhodes is an appealing character, a quiet man surrounded by supporting cast members who are (unlike many supporting characters) as vivid as any real-life next-door neighbors. And it's a pleasure to watch him solve this case through intelligence, wit, and just a little bit of luck. Fans will definitely be satisfied, while readers new to the series will find this an excellent way to make Sheriff Rhodes' acquaintance.
+          — Booklist, David Pitt
+        </Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceLink>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/paperback-covers/sdr_paperback-cover_book-09.png</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintName>Crossroad Press</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>Crossroad Press</PublisherName>
+        <Website>
+          <WebsiteRole>01</WebsiteRole>
+          <WebsiteLink>https://crossroadpress.com</WebsiteLink>
+        </Website>
+      </Publisher>
+      <CityOfPublication>Hertford</CityOfPublication>
+      <CountryOfPublication>US</CountryOfPublication>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20000301</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>11</PublishingDateRole>
+        <Date dateformat="05">1998</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightType>C</CopyrightType>
+        <CopyrightYear>1998</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <CopyrightStatement>
+        <CopyrightType>P</CopyrightType>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489329</IDValue>
+        </ProductIdentifier>
+        <ProductForm>EA</ProductForm>
+        <ProductFormDetail>E101</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489336</IDValue>
+        </ProductIdentifier>
+        <ProductForm>AA</ProductForm>
+        <ProductFormDetail>A109</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>00</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489343</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BB</ProductForm>
+        <ProductFormDetail>B501</ProductFormDetail>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>01</SupplierRole>
+          <SupplierName>Crossroad Press</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>Y</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>20</ProductAvailability>
+        <PackQuantity>1</PackQuantity>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>12.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>04</SupplierRole>
+          <SupplierName>Ingram Spark</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>Y</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>12</ProductAvailability>
+        <PackQuantity>1</PackQuantity>
+        <Price>
+          <PriceType>05</PriceType>
+          <PriceAmount>12.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+</ONIXMessage>

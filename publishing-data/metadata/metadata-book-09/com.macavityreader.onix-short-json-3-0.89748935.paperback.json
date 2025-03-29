@@ -1,13 +1,13 @@
 {
-    "id": "67ab88bdfa2bab42c8434bdd",
+    "id": "67b6029ea67b7bf045d43ce8",
     "Locked": false,
     "CreatedBy": "aad74364-bebb-4a16-99e2-6c0844fcae45",
-    "CreationDate": "2025-02-11T17:28:29.115Z",
+    "CreationDate": "2025-02-19T16:11:10.309Z",
     "LastModifiedBy": "aad74364-bebb-4a16-99e2-6c0844fcae45",
-    "LastModificationDate": "2025-02-20T17:13:56Z",
-    "LastValidationDate": "2025-02-20T17:13:58Z",
-    "LastCloudListColumnRefreshDate": "2025-02-20T17:13:56.144Z",
-    "LastCustomFieldRefreshDate": "2025-02-20T17:13:56.17Z",
+    "LastModificationDate": "2025-02-20T18:20:17Z",
+    "LastValidationDate": "2025-02-20T18:24:01Z",
+    "LastCloudListColumnRefreshDate": "2025-02-20T18:20:17.943Z",
+    "LastCustomFieldRefreshDate": "2025-02-20T18:20:17.969Z",
     "ThumbnailExtractionPending": false,
     "ONIXValidation": {
         "NbErrors_BEST": 0,
@@ -17,32 +17,32 @@
     "Source": "CLOUD",
     "ContainsTag": false,
     "Version": "ONIX 3.0",
-    "ONIX_NOSEQ": "9e529f71-7c4a-4e3e-81a4-586449eedb91",
-    "XMLValues": "com.macavityreader.onix.89748908.ebook 9e529f71-7c4a-4e3e-81a4-586449eedb91 9798897489084 Cursed To Death Bill Crider Crider, FIC022020 FICTION / Mystery & Detective Police Procedural FFP Crime and mystery: police procedural 4.0.1.5.8.0.0 Texas 1KBBSX Sheriff Dan Rhodes; Blacklin Co.; 1KBB-US-SWT Crossroad Press Hertford; In tiny Blacklin County, Texas, a curse is nothing more than a four-letter word hollered in a barroom or muttered in the heat. So Sheriff Dan Rhodes is more curious than concerned when he dutifully responds to a complaint of witchcraft. When Dr. Samuel Martin, the local dentist — and unpopular landlord — claims he's been hexed by a tenant, Rhodes does his best to smooth things out between the distressed D.D.S. and the would-be witch. But in two shakes of a black cat's tail, the good doctor disappears... and his wife turns up bludgeoned to death.\n\nFor Rhodes, it means there's a bad moon rising over Blacklin County. And now he's got to do the voodoo he does best — asking pointed questions and extracting the painful truth from some tight-lipped suspects who also bite...; Sheriff Rhodes is a different, commonsensical, delightful character. —Publishers Weekly; 9798897489091 9798897489107 9798897489114",
+    "ONIX_NOSEQ": "9e529f71-7c81-4cfc-a0cb-f382d3aa8b1a",
+    "XMLValues": "com.macavityreader.onix.89748935.paperback 9e529f71-7c81-4cfc-a0cb-f382d3aa8b1a 9798897489350 Death By Accident Bill Crider Crider, FIC022020 FICTION / Mystery & Detective Police Procedural FFP Crime and mystery: police procedural 4.0.1.5.8.0.0 Texas 1KBBSX Sheriff Dan Rhodes; Blacklin Co.; 1KBB-US-SWT Crossroad Press Hertford; Texas Sheriff Dan Rhodes' cases usually concern the bad boys of rural Blacklin County, or the slightly wacky citizens who are causing trouble that tends to be funny rather than criminal. But although at first the dead man floating in the old swimming pool at the edge of town seems to have been an accident victim — a staggering drunk tumbling into the water — Rhodes and his small but colorful staff soon uncover murder. \n\n It's the second strange death in two weeks (the other was that of John West, killed when he blew up carrying a gasoline can across a field). But where was the Cherokee wagon John was carrying the gas to? And why is his widow so jaunty? West was a solid citizen; Pep Yeldell, the swimming pool decedent, was a man with many enemies. In his quiet way, Rhodes goes about looking for a connection and a killer — a quest that takes Rhodes, no athlete now in spite of his wife's efforts to keep him on a diet of little meat and lots of greens, up a tree and puts him at the mercy of a vicious killer.; This is the ninth novel featuring Texan Dan Rhodes, a small-town sheriff faced with big-city problems—in this case, two suspicious "accidental" deaths within two weeks, not to mention a squabble between two local historical societies that threatens to get nasty (and violent) at any moment. This is a gentle mystery more concerned with character and story than gunplay and tough-guy cliches. Rhodes is an appealing character, a quiet man surrounded by supporting cast members who are (unlike many supporting characters) as vivid as any real-life next-door neighbors. And it's a pleasure to watch him solve this case through intelligence, wit, and just a little bit of luck. Fans will definitely be satisfied, while readers new to the series will find this an excellent way to make Sheriff Rhodes' acquaintance.\n—Booklist, David Pitt.; 9798897489329 9798897489336 9798897489343",
     "language_text_idx": "en",
     "SortFields": {
-        "RecordReference": "com.macavityreader.onix.89748908.ebook",
-        "Title": "Cursed To Death",
-        "ISBN13": "9798897489084",
-        "EAN": "9798897489084",
-        "ISBN13_EAN": "9798897489084",
-        "ProductForm": "EA",
+        "RecordReference": "com.macavityreader.onix.89748935.paperback",
+        "Title": "Death By Accident",
+        "ISBN13": "9798897489350",
+        "EAN": "9798897489350",
+        "ISBN13_EAN": "9798897489350",
+        "ProductForm": "BC",
         "Authors": "Bill Crider",
         "Subjects": "FICTION / Mystery & Detective / Police Procedural;Crime and mystery: police procedural;Texas;Texas;Sheriff Dan Rhodes; Blacklin Co.; police procedural;Texas",
         "Availability": "20",
-        "PublicationDate": "2013-06-13T00:00:00Z",
+        "PublicationDate": "2000-03-01T00:00:00Z",
         "PublishingStatus": "04"
     },
     "ListColumns": {
-        "CLC12390": "238",
+        "CLC12390": "280",
         "CLC12391": "eng",
         "CLC12392": "04",
-        "CLC12393": "20131114",
+        "CLC12393": "20260101",
         "CLC12394": "01",
-        "CLC12395": "E101"
+        "CLC12395": "B101"
     },
     "RecordReference": {
-        "Value": "com.macavityreader.onix.89748908.ebook"
+        "Value": "com.macavityreader.onix.89748935.paperback"
     },
     "NotificationType": {
         "Value": "03"
@@ -56,7 +56,7 @@
                 "Value": "ONIX_NOSEQ"
             },
             "IDValue": {
-                "Value": "9e529f71-7c4a-4e3e-81a4-586449eedb91"
+                "Value": "9e529f71-7c81-4cfc-a0cb-f382d3aa8b1a"
             }
         },
         {
@@ -64,7 +64,7 @@
                 "Value": "15"
             },
             "IDValue": {
-                "Value": "9798897489084"
+                "Value": "9798897489350"
             }
         },
         {
@@ -72,7 +72,7 @@
                 "Value": "03"
             },
             "IDValue": {
-                "Value": "9798897489084"
+                "Value": "9798897489350"
             }
         }
     ],
@@ -81,11 +81,11 @@
             "Value": "00"
         },
         "ProductForm": {
-            "Value": "EA"
+            "Value": "BC"
         },
         "ProductFormDetail": [
             {
-                "Value": "E101"
+                "Value": "B101"
             }
         ],
         "ProductPackaging": {
@@ -94,11 +94,61 @@
         "PrimaryContentType": {
             "Value": "10"
         },
+        "Measure": [
+            {
+                "MeasureType": {
+                    "Value": "01"
+                },
+                "Measurement": {
+                    "Value": "7",
+                    "Number": 7
+                },
+                "MeasureUnitCode": {
+                    "Value": "in"
+                }
+            },
+            {
+                "MeasureType": {
+                    "Value": "02"
+                },
+                "Measurement": {
+                    "Value": "4.25",
+                    "Number": 4.25
+                },
+                "MeasureUnitCode": {
+                    "Value": "in"
+                }
+            },
+            {
+                "MeasureType": {
+                    "Value": "03"
+                },
+                "Measurement": {
+                    "Value": "0.50",
+                    "Number": 0.50
+                },
+                "MeasureUnitCode": {
+                    "Value": "in"
+                }
+            },
+            {
+                "MeasureType": {
+                    "Value": "08"
+                },
+                "Measurement": {
+                    "Value": "0.5",
+                    "Number": 0.5
+                },
+                "MeasureUnitCode": {
+                    "Value": "lb"
+                }
+            }
+        ],
         "CountryOfManufacture": {
             "Value": "US"
         },
         "EpubTechnicalProtection": {
-            "Value": "02"
+            "Value": "00"
         },
         "Collection": [
             {
@@ -116,11 +166,11 @@
                                     "Value": "02"
                                 },
                                 "PartNumber": {
-                                    "Value": "3"
+                                    "Value": "9"
                                 },
                                 "NoPrefix": true,
                                 "TitleWithoutPrefix": {
-                                    "Value": "Cursed To Death"
+                                    "Value": "Death By Accident"
                                 }
                             },
                             {
@@ -128,7 +178,7 @@
                                     "Value": "01"
                                 },
                                 "PartNumber": {
-                                    "Value": "Book 3 of 25"
+                                    "Value": "Book 9 of 25"
                                 },
                                 "NoPrefix": false
                             }
@@ -148,11 +198,11 @@
                             "Value": "01"
                         },
                         "PartNumber": {
-                            "Value": "3"
+                            "Value": "9"
                         },
                         "NoPrefix": true,
                         "TitleWithoutPrefix": {
-                            "Value": "Cursed To Death"
+                            "Value": "Death By Accident"
                         }
                     }
                 ]
@@ -229,8 +279,8 @@
                     "Value": "00"
                 },
                 "ExtentValue": {
-                    "Value": "238",
-                    "Number": 238
+                    "Value": "280",
+                    "Number": 280
                 },
                 "ExtentUnit": {
                     "Value": "03"
@@ -328,7 +378,7 @@
                     }
                 ],
                 "Text": {
-                    "Value": "In tiny Blacklin County, Texas, a curse is nothing more than a four-letter word hollered in a barroom or muttered in the heat. So Sheriff Dan Rhodes is more curious than concerned when he dutifully responds to a complaint of witchcraft. When Dr. Samuel Martin, the local dentist — and unpopular landlord — claims he's been hexed by a tenant, Rhodes does his best to smooth things out between the distressed D.D.S. and the would-be witch. But in two shakes of a black cat's tail, the good doctor disappears... and his wife turns up bludgeoned to death.\n\nFor Rhodes, it means there's a bad moon rising over Blacklin County. And now he's got to do the voodoo he does best — asking pointed questions and extracting the painful truth from some tight-lipped suspects who also bite...",
+                    "Value": "Texas Sheriff Dan Rhodes' cases usually concern the bad boys of rural Blacklin County, or the slightly wacky citizens who are causing trouble that tends to be funny rather than criminal. But although at first the dead man floating in the old swimming pool at the edge of town seems to have been an accident victim — a staggering drunk tumbling into the water — Rhodes and his small but colorful staff soon uncover murder. \n\n It's the second strange death in two weeks (the other was that of John West, killed when he blew up carrying a gasoline can across a field). But where was the Cherokee wagon John was carrying the gas to? And why is his widow so jaunty? West was a solid citizen; Pep Yeldell, the swimming pool decedent, was a man with many enemies. In his quiet way, Rhodes goes about looking for a connection and a killer — a quest that takes Rhodes, no athlete now in spite of his wife's efforts to keep him on a diet of little meat and lots of greens, up a tree and puts him at the mercy of a vicious killer.",
                     "attributes": {
                         "textformat": "07"
                     }
@@ -344,9 +394,9 @@
                     }
                 ],
                 "Text": {
-                    "Value": "Sheriff Rhodes is a different, commonsensical, delightful character. —Publishers Weekly",
+                    "Value": "This is the ninth novel featuring Texan Dan Rhodes, a small-town sheriff faced with big-city problems—in this case, two suspicious "accidental" deaths within two weeks, not to mention a squabble between two local historical societies that threatens to get nasty (and violent) at any moment. This is a gentle mystery more concerned with character and story than gunplay and tough-guy cliches. Rhodes is an appealing character, a quiet man surrounded by supporting cast members who are (unlike many supporting characters) as vivid as any real-life next-door neighbors. And it's a pleasure to watch him solve this case through intelligence, wit, and just a little bit of luck. Fans will definitely be satisfied, while readers new to the series will find this an excellent way to make Sheriff Rhodes' acquaintance.\n—Booklist, David Pitt.",
                     "attributes": {
-                        "textformat": "07"
+                        "textformat": "05"
                     }
                 }
             }
@@ -370,7 +420,10 @@
                             "Value": "01"
                         },
                         "ResourceLink": {
-                            "Value": "https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/ebook-covers/sdr_ebook-cover_book-03.png"
+                            "Value": "https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/paperback-covers/sdr_paperback-cover_book-09.png"
+                        },
+                        "MediaFileInternal": {
+                            "upload": false
                         }
                     }
                 ]
@@ -422,8 +475,8 @@
                     "Value": "01"
                 },
                 "Date": {
-                    "Value": "20130613",
-                    "ISODate": "2013-06-13T00:00:00Z",
+                    "Value": "20000301",
+                    "ISODate": "2000-03-01T00:00:00Z",
                     "attributes": {
                         "dateformat": "00"
                     }
@@ -434,8 +487,8 @@
                     "Value": "11"
                 },
                 "Date": {
-                    "Value": "1988",
-                    "ISODate": "1988-01-01T00:00:00Z",
+                    "Value": "1998",
+                    "ISODate": "1998-01-01T00:00:00Z",
                     "attributes": {
                         "dateformat": "05"
                     }
@@ -448,8 +501,8 @@
                     "Value": "C"
                 },
                 "CopyrightYear": {
-                    "Value": "1988",
-                    "ISODate": "1988-01-01T00:00:00Z"
+                    "Value": "1998",
+                    "ISODate": "1998-01-01T00:00:00Z"
                 },
                 "CopyrightOwner": [
                     {
@@ -464,8 +517,8 @@
                     "Value": "P"
                 },
                 "CopyrightYear": {
-                    "Value": "2020",
-                    "ISODate": "2020-01-01T00:00:00Z"
+                    "Value": "2021",
+                    "ISODate": "2021-01-01T00:00:00Z"
                 },
                 "CopyrightOwner": [
                     {
@@ -501,7 +554,28 @@
                             "Value": "15"
                         },
                         "IDValue": {
-                            "Value": "9798897489091"
+                            "Value": "9798897489329"
+                        }
+                    }
+                ],
+                "ProductForm": {
+                    "Value": "EA"
+                },
+                "ProductFormDetail": {
+                    "Value": "E101"
+                }
+            },
+            {
+                "ProductRelationCode": {
+                    "Value": "27"
+                },
+                "ProductIdentifier": [
+                    {
+                        "ProductIDType": {
+                            "Value": "15"
+                        },
+                        "IDValue": {
+                            "Value": "9798897489336"
                         }
                     }
                 ],
@@ -522,7 +596,7 @@
                             "Value": "15"
                         },
                         "IDValue": {
-                            "Value": "9798897489107"
+                            "Value": "9798897489343"
                         }
                     }
                 ],
@@ -531,27 +605,6 @@
                 },
                 "ProductFormDetail": {
                     "Value": "B501"
-                }
-            },
-            {
-                "ProductRelationCode": {
-                    "Value": "00"
-                },
-                "ProductIdentifier": [
-                    {
-                        "ProductIDType": {
-                            "Value": "15"
-                        },
-                        "IDValue": {
-                            "Value": "9798897489114"
-                        }
-                    }
-                ],
-                "ProductForm": {
-                    "Value": "BC"
-                },
-                "ProductFormDetail": {
-                    "Value": "B101"
                 }
             }
         ]
@@ -570,8 +623,22 @@
                             }
                         }
                     ],
+                    "ReturnsConditions": [
+                        {
+                            "ReturnsCodeType": {
+                                "Value": "02"
+                            },
+                            "ReturnsCode": {
+                                "Value": "Y"
+                            }
+                        }
+                    ],
                     "ProductAvailability": {
                         "Value": "20"
+                    },
+                    "PackQuantity": {
+                        "Value": "1",
+                        "Number": 1
                     },
                     "Price": [
                         {
@@ -579,8 +646,56 @@
                                 "Value": "01"
                             },
                             "PriceAmount": {
-                                "Value": "3.99",
-                                "Number": 3.99
+                                "Value": "12.95",
+                                "Number": 12.95
+                            },
+                            "CurrencyCode": {
+                                "Value": "USD"
+                            },
+                            "Territory": {
+                                "CountriesIncluded": {
+                                    "Value": "US"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Supplier": [
+                        {
+                            "SupplierRole": {
+                                "Value": "04"
+                            },
+                            "SupplierName": {
+                                "Value": "Ingram Spark"
+                            }
+                        }
+                    ],
+                    "ReturnsConditions": [
+                        {
+                            "ReturnsCodeType": {
+                                "Value": "02"
+                            },
+                            "ReturnsCode": {
+                                "Value": "Y"
+                            }
+                        }
+                    ],
+                    "ProductAvailability": {
+                        "Value": "12"
+                    },
+                    "PackQuantity": {
+                        "Value": "1",
+                        "Number": 1
+                    },
+                    "Price": [
+                        {
+                            "PriceType": {
+                                "Value": "05"
+                            },
+                            "PriceAmount": {
+                                "Value": "12.95",
+                                "Number": 12.95
                             },
                             "CurrencyCode": {
                                 "Value": "USD"

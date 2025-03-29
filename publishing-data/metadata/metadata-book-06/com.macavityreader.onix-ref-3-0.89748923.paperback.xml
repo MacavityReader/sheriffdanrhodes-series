@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Booked For A Hanging-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 06-->
+<!--paperback-->
+<ONIXMessage release="3.0">
+  <Header>
+    <Sender>
+      <SenderName></SenderName>
+      <ContactName></ContactName>
+      <EmailAddress></EmailAddress>
+    </Sender>
+    <SentDateTime></SentDateTime>
+  </Header>
+  <Product>
+    <RecordReference>com.macavityreader.onix.89748923.paperback</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>01</ProductIDType>
+      <IDTypeName>ONIX_NOSEQ</IDTypeName>
+      <IDValue>9e529f71-7c64-4f3d-bccc-1b3026a29f1c</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9798897489237</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9798897489237</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BC</ProductForm>
+      <ProductFormDetail>B101</ProductFormDetail>
+      <ProductPackaging>00</ProductPackaging>
+      <PrimaryContentType>10</PrimaryContentType>
+      <Measure>
+        <MeasureType>01</MeasureType>
+        <Measurement>7</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>02</MeasureType>
+        <Measurement>4.25</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>03</MeasureType>
+        <Measurement>0.50</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>08</MeasureType>
+        <Measurement>0.5</Measurement>
+        <MeasureUnitCode>lb</MeasureUnitCode>
+      </Measure>
+      <CountryOfManufacture>US</CountryOfManufacture>
+      <EpubTechnicalProtection>00</EpubTechnicalProtection>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <PartNumber>6</PartNumber>
+            <NoPrefix />
+            <TitleWithoutPrefix>Booked For A Hanging</TitleWithoutPrefix>
+          </TitleElement>
+          <TitleElement>
+            <TitleElementLevel>01</TitleElementLevel>
+            <PartNumber>Book 6 of 25</PartNumber>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <PartNumber>6</PartNumber>
+          <NoPrefix />
+          <TitleWithoutPrefix>Booked For A Hanging</TitleWithoutPrefix>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Bill Crider</PersonName>
+        <PersonNameInverted>Crider, Bill</PersonNameInverted>
+        <NamesBeforeKey>Bill</NamesBeforeKey>
+        <KeyNames>Crider</KeyNames>
+        <BiographicalNote textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </BiographicalNote>
+        <Website>
+          <WebsiteRole>13</WebsiteRole>
+          <WebsiteLink>https://sheriffdanrhodes.com</WebsiteLink>
+        </Website>
+        <ContributorPlace>
+          <ContributorPlaceRelator>07</ContributorPlaceRelator>
+          <CountryCode>US</CountryCode>
+        </ContributorPlace>
+      </Contributor>
+      <EditionNumber>1</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>280</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC022020</SubjectCode>
+        <SubjectHeadingText>FICTION / Mystery &amp; Detective / Police Procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>FFP</SubjectCode>
+        <SubjectHeadingText>Crime and mystery: police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>11</SubjectSchemeIdentifier>
+        <SubjectCode>4.0.1.5.8.0.0</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>1KBBSX</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Sheriff Dan Rhodes; Blacklin Co.; police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <MainSubject />
+        <SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+        <SubjectCode>1KBB-US-SWT</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          The versatile mystery novelist Bill Crider has created a pantheon of marvelous characters, but none is more real, warm, and thoroughly delightful than Sheriff Dan Rhodes of Blacklin County, Texas. In his sixth adventure, Rhodes is confronted with what seems at first to be a suicide: the body of a man newly arrived in the county is found hanged in the dilapidated building he has taken over for his business. Simon Graham was a rare-book dealer. If it seems unlikely to find such an arcane entrepreneur in this extremely rural and sparsely populated part of Texas, it becomes less strange when it turns out that Graham was more con man than bibliophile. 
+
+          The presumed suicide begins to look more and more like murder when several newcomers swoop down on the scene and try to beat out one another to find a reputedly valuable rare book that Graham was rumored to have among his collection of hardly worthwhile items. Although Rhodes's two attenuated and eccentric jailhouse employees have gone overboard for the magic of the department's new computer, the steady, if put-upon, Rhodes and his clear-eyed observations of human nature have invariably been more useful to the solution of a crime - and that is still true in the case of the hanged book dealer.
+        </Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          Down-home humor, rural shenanigans and salt-of-the-earth characters make up for predictability in this enjoyable, albeit unsurprising, tale. In his sixth outing (after Evil at the Root), Sheriff Dan Rhodes of Blacklin County, Texas, finds the body of book dealer Simon Graham hanging from the rafters of an old college building he had planned to restore. Graham's business partner, his erstwhile girlfriend and a rival book dealer all lay claim to a copy of Poe's Tamerlane, a rare collection of poetry worth $250,000, which Graham had purportedly discovered. At the same time, Rhodes deals with a rancher whose cattle has been stolen, a man who frequents a local restaurant naked, the introduction of computers to the sheriff's office and his recent marriage. Balanced, agreeable and ambling apply equally to Crider's story and his hero. 
+          —Publishers Weekly
+        </Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceLink>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/paperback-covers/sdr_paperback-cover_book-06.png</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintName>Crossroad Press</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>Crossroad Press</PublisherName>
+        <Website>
+          <WebsiteRole>01</WebsiteRole>
+          <WebsiteLink>https://crossroadpress.com</WebsiteLink>
+        </Website>
+      </Publisher>
+      <CityOfPublication>Hertford</CityOfPublication>
+      <CountryOfPublication>US</CountryOfPublication>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20280101</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>11</PublishingDateRole>
+        <Date dateformat="05">1992</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightType>C</CopyrightType>
+        <CopyrightYear>1992</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <CopyrightStatement>
+        <CopyrightType>P</CopyrightType>
+        <CopyrightYear>2020</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489206</IDValue>
+        </ProductIdentifier>
+        <ProductForm>EA</ProductForm>
+        <ProductFormDetail>E101</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489213</IDValue>
+        </ProductIdentifier>
+        <ProductForm>AA</ProductForm>
+        <ProductFormDetail>A109</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>00</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489220</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BB</ProductForm>
+        <ProductFormDetail>B501</ProductFormDetail>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>01</SupplierRole>
+          <SupplierName>Crossroad Press</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>Y</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>20</ProductAvailability>
+        <PackQuantity>1</PackQuantity>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>12.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>04</SupplierRole>
+          <SupplierName>Ingram Spark</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>Y</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>12</ProductAvailability>
+        <PackQuantity>1</PackQuantity>
+        <Price>
+          <PriceType>05</PriceType>
+          <PriceAmount>12.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+</ONIXMessage>

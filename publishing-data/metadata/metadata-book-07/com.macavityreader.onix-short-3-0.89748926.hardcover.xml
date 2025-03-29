@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Murder Most Fowl-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 07-->
+<!--hardcover-->
+<ONIXmessage release="3.0">
+  <header>
+    <sender>
+      <x298></x298>
+      <x299></x299>
+      <j272></j272>
+    </sender>
+    <x307></x307>
+  </header>
+  <product>
+    <a001>com.macavityreader.onix.89748926.hardcover</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>01</b221>
+      <b233>ONIX_NOSEQ</b233>
+      <b244>9e529f71-7c69-448c-9dac-84aaf09c40d1</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9798897489268</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9798897489268</b244>
+    </productidentifier>
+    <descriptivedetail>
+      <x314>00</x314>
+      <b012>BB</b012>
+      <b333>B501</b333>
+      <b225>00</b225>
+      <x416>10</x416>
+      <measure>
+        <x315>01</x315>
+        <c094>8.5</c094>
+        <c095>in</c095>
+      </measure>
+      <measure>
+        <x315>02</x315>
+        <c094>5.5</c094>
+        <c095>in</c095>
+      </measure>
+      <measure>
+        <x315>03</x315>
+        <c094>0.5</c094>
+        <c095>in</c095>
+      </measure>
+      <measure>
+        <x315>08</x315>
+        <c094>1.0</c094>
+        <c095>lb</c095>
+      </measure>
+      <x316>US</x316>
+      <x317>00</x317>
+      <collection>
+        <x329>10</x329>
+        <titledetail>
+          <b202>01</b202>
+          <titleelement>
+            <x409>02</x409>
+            <x410>7</x410>
+            <x501 />
+            <b031>Murder Most Fowl</b031>
+          </titleelement>
+          <titleelement>
+            <x409>01</x409>
+            <x410>Book 7 of 25</x410>
+          </titleelement>
+        </titledetail>
+      </collection>
+      <titledetail>
+        <b202>01</b202>
+        <titleelement>
+          <x409>01</x409>
+          <x410>7</x410>
+          <x501 />
+          <b031>Murder Most Fowl</b031>
+        </titleelement>
+      </titledetail>
+      <contributor>
+        <b034>1</b034>
+        <b035>A01</b035>
+        <b036>Bill Crider</b036>
+        <b037>Crider, Bill</b037>
+        <b039>Bill</b039>
+        <b040>Crider</b040>
+        <b044 textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </b044>
+        <website>
+          <b367>13</b367>
+          <b295>https://sheriffdanrhodes.com</b295>
+        </website>
+        <contributorplace>
+          <x418>07</x418>
+          <b251>US</b251>
+        </contributorplace>
+      </contributor>
+      <b057>1</b057>
+      <language>
+        <b253>01</b253>
+        <b252>eng</b252>
+      </language>
+      <extent>
+        <b218>00</b218>
+        <b219>238</b219>
+        <b220>03</b220>
+      </extent>
+      <subject>
+        <b067>10</b067>
+        <b069>FIC022020</b069>
+        <b070>FICTION / Mystery &amp; Detective / Police Procedural</b070>
+      </subject>
+      <subject>
+        <b067>93</b067>
+        <b069>FFP</b069>
+        <b070>Crime and mystery: police procedural</b070>
+      </subject>
+      <subject>
+        <b067>11</b067>
+        <b069>4.0.1.5.8.0.0</b069>
+        <b070>Texas</b070>
+      </subject>
+      <subject>
+        <b067>12</b067>
+        <b069>1KBBSX</b069>
+        <b070>Texas</b070>
+      </subject>
+      <subject>
+        <b067>20</b067>
+        <b070>Sheriff Dan Rhodes; Blacklin Co.; police procedural</b070>
+      </subject>
+      <subject>
+        <x425 />
+        <b067>94</b067>
+        <b069>1KBB-US-SWT</b069>
+        <b070>Texas</b070>
+      </subject>
+      <audience>
+        <b204>01</b204>
+        <b206>01</b206>
+      </audience>
+    </descriptivedetail>
+    <collateraldetail>
+      <textcontent>
+        <x426>03</x426>
+        <x427>00</x427>
+        <d104 textformat="07">
+          Following Booked for a Hanging, Anthony Award-winner Bill Crider brings back his amiable, computer-phobic sheriff Dan Rhodes to investigate a murder that may or may not be related to a recent wave of emu-rustling. For an officer of the law, Blacklin County, Texas, used to be pretty peaceful, but now, what with the emu-rustling, cockfights, and protests at the new Wal-Mart store — not to mention murder — Sheriff Dan Rhodes has his hands full. Hit hard by the collapse of his little hardware store, Elijah ("Lige") Ward has taken to chaining himself to the Wal-Mart doors and generally making a nuisance of himself. And when Lige's dead body turns up, floating down a river in a portable toilet, Rhodes finds he has quite a case to investigate. 
+
+          What was the connection between Lige and chickens? Lige and the Palm Club? And was he involved in the area's emu thefts? It seems that raising emus ("taste like steak, not chicken") is a booming business, so much so that emu ("calmer than ostriches and more resistant to disease") are being stolen left, right, and center by would-be emu ranchers with little respect for the law. From theft to murder, the local crime spree seems unstoppable. But with a little help from the computer foisted on him by aging deputies Hack and Lawton, plus some good old-fashioned detective work, Rhodes just may be able to straighten out his county.
+        </d104>
+      </textcontent>
+      <textcontent>
+        <x426>06</x426>
+        <x427>00</x427>
+        <d104 textformat="07">
+          Down-home Texas policeman Dan Rhodes, the sheriff of Blacklin County who was last seen in Booked for a Hanging, finds a corpse in a bullet-riddled portable toilet floating down river. The congregation assembled on the riverbank for a baptism is disturbed; the three young drunks discovered shooting at the toilet claim not to have known anyone was inside. The victim, a former hardware-store owner who had recently chained himself to the local Wal-Mart to protest the discount store's competitive edge, has an illegal cockfighting tool in his pocket. Then the dead man's widow is killed. The inhabitants of Blacklin, including Dan's shiftless deputies who are most interested in watching TV soaps and Oprah, have lots of generally bad advice for their sheriff, who has two murders to solve, two emus to find and a secret cockfighting ring to break up-all on a diet of health food prescribed by his concerned lady friend. Crider's humor is the warm kind, and his cast amiably eccentric. If his plot isn't entirely gripping, at least the image of the silver Sani-can gently bobbing in the water will linger in the reader's imagination.
+          —Publishers Weekly
+        </d104>
+      </textcontent>
+      <supportingresource>
+        <x436>01</x436>
+        <x427>00</x427>
+        <x437>03</x437>
+        <resourceversion>
+          <x441>01</x441>
+          <x435>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/hardcover-covers/sdr_hardcover-cover_book-07.png</x435>
+        </resourceversion>
+      </supportingresource>
+    </collateraldetail>
+    <publishingdetail>
+      <imprint>
+        <b079>Crossroad Press</b079>
+      </imprint>
+      <publisher>
+        <b291>01</b291>
+        <b081>Crossroad Press</b081>
+        <website>
+          <b367>01</b367>
+          <b295>https://crossroadpress.com</b295>
+        </website>
+      </publisher>
+      <b209>Hertford</b209>
+      <b083>US</b083>
+      <b394>04</b394>
+      <publishingdate>
+        <x448>01</x448>
+        <b306 dateformat="00">19940101</b306>
+      </publishingdate>
+      <publishingdate>
+        <x448>11</x448>
+        <b306 dateformat="05">1994</b306>
+      </publishingdate>
+      <copyrightstatement>
+        <x512>C</x512>
+        <b087>1994</b087>
+        <copyrightowner>
+          <b036>Angela Crider Neary</b036>
+        </copyrightowner>
+      </copyrightstatement>
+      <copyrightstatement>
+        <x512>P</x512>
+        <b087>2020</b087>
+        <copyrightowner>
+          <b036>Angela Crider Neary</b036>
+        </copyrightowner>
+      </copyrightstatement>
+      <salesrights>
+        <b089>01</b089>
+        <territory>
+          <x450>WORLD</x450>
+        </territory>
+      </salesrights>
+    </publishingdetail>
+    <relatedmaterial>
+      <relatedproduct>
+        <x455>27</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489244</b244>
+        </productidentifier>
+        <b012>EA</b012>
+        <b333>E101</b333>
+      </relatedproduct>
+      <relatedproduct>
+        <x455>27</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489251</b244>
+        </productidentifier>
+        <b012>AA</b012>
+        <b333>A109</b333>
+      </relatedproduct>
+      <relatedproduct>
+        <x455>29</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489275</b244>
+        </productidentifier>
+        <b012>BC</b012>
+        <b333>B101</b333>
+      </relatedproduct>
+    </relatedmaterial>
+    <productsupply>
+      <supplydetail>
+        <supplier>
+          <j292>01</j292>
+          <j137>Crossroad Press</j137>
+        </supplier>
+        <returnsconditions>
+          <j268>02</j268>
+          <j269>Y</j269>
+        </returnsconditions>
+        <j396>20</j396>
+        <j145>1</j145>
+        <price>
+          <x462>01</x462>
+          <j151>19.95</j151>
+          <j152>USD</j152>
+          <territory>
+            <x449>US</x449>
+          </territory>
+        </price>
+      </supplydetail>
+      <supplydetail>
+        <supplier>
+          <j292>04</j292>
+          <j137>Ingram Spark</j137>
+        </supplier>
+        <returnsconditions>
+          <j268>02</j268>
+          <j269>Y</j269>
+        </returnsconditions>
+        <j396>12</j396>
+        <j145>1</j145>
+        <price>
+          <x462>05</x462>
+          <j151>19.95</j151>
+          <j152>USD</j152>
+          <territory>
+            <x449>US</x449>
+          </territory>
+        </price>
+      </supplydetail>
+    </productsupply>
+  </product>
+</ONIXmessage>

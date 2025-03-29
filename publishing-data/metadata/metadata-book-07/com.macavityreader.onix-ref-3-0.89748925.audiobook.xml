@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Murder Most Fowl-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 07-->
+<!--audiobook-->
+<ONIXMessage release="3.0">
+  <Header>
+    <Sender>
+      <SenderName></SenderName>
+      <ContactName></ContactName>
+      <EmailAddress></EmailAddress>
+    </Sender>
+    <SentDateTime></SentDateTime>
+  </Header>
+  <Product>
+    <RecordReference>com.macavityreader.onix.89748925.audiobook</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>01</ProductIDType>
+      <IDTypeName>ONIX_NOSEQ</IDTypeName>
+      <IDValue>9e529f71-7c67-4f87-939d-e06c0a29eb01</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9798897489251</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9798897489251</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AO</ProductForm>
+      <ProductFormDetail>A109</ProductFormDetail>
+      <ProductPackaging>00</ProductPackaging>
+      <PrimaryContentType>10</PrimaryContentType>
+      <CountryOfManufacture>US</CountryOfManufacture>
+      <EpubTechnicalProtection>00</EpubTechnicalProtection>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <PartNumber>7</PartNumber>
+            <NoPrefix />
+            <TitleWithoutPrefix>Murder Most Fowl</TitleWithoutPrefix>
+          </TitleElement>
+          <TitleElement>
+            <TitleElementLevel>01</TitleElementLevel>
+            <PartNumber>Book 7 of 25</PartNumber>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <PartNumber>7</PartNumber>
+          <NoPrefix />
+          <TitleWithoutPrefix>Murder Most Fowl</TitleWithoutPrefix>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Bill Crider</PersonName>
+        <PersonNameInverted>Crider, Bill</PersonNameInverted>
+        <NamesBeforeKey>Bill</NamesBeforeKey>
+        <KeyNames>Crider</KeyNames>
+        <BiographicalNote textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </BiographicalNote>
+        <Website>
+          <WebsiteRole>13</WebsiteRole>
+          <WebsiteLink>https://sheriffdanrhodes.com</WebsiteLink>
+        </Website>
+        <ContributorPlace>
+          <ContributorPlaceRelator>07</ContributorPlaceRelator>
+          <CountryCode>US</CountryCode>
+        </ContributorPlace>
+      </Contributor>
+      <EditionNumber>1</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>306.0</ExtentValue>
+        <ExtentUnit>05</ExtentUnit>
+      </Extent>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC022020</SubjectCode>
+        <SubjectHeadingText>FICTION / Mystery &amp; Detective / Police Procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>FFP</SubjectCode>
+        <SubjectHeadingText>Crime and mystery: police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>11</SubjectSchemeIdentifier>
+        <SubjectCode>4.0.1.5.8.0.0</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>1KBBSX</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Sheriff Dan Rhodes; Blacklin Co.; police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <MainSubject />
+        <SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+        <SubjectCode>1KBB-US-SWT</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          Following Booked for a Hanging, Anthony Award-winner Bill Crider brings back his amiable, computer-phobic sheriff Dan Rhodes to investigate a murder that may or may not be related to a recent wave of emu-rustling. For an officer of the law, Blacklin County, Texas, used to be pretty peaceful, but now, what with the emu-rustling, cockfights, and protests at the new Wal-Mart store — not to mention murder — Sheriff Dan Rhodes has his hands full. Hit hard by the collapse of his little hardware store, Elijah ("Lige") Ward has taken to chaining himself to the Wal-Mart doors and generally making a nuisance of himself. And when Lige's dead body turns up, floating down a river in a portable toilet, Rhodes finds he has quite a case to investigate. 
+
+          What was the connection between Lige and chickens? Lige and the Palm Club? And was he involved in the area's emu thefts? It seems that raising emus ("taste like steak, not chicken") is a booming business, so much so that emu ("calmer than ostriches and more resistant to disease") are being stolen left, right, and center by would-be emu ranchers with little respect for the law. From theft to murder, the local crime spree seems unstoppable. But with a little help from the computer foisted on him by aging deputies Hack and Lawton, plus some good old-fashioned detective work, Rhodes just may be able to straighten out his county.
+        </Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          Down-home Texas policeman Dan Rhodes, the sheriff of Blacklin County who was last seen in Booked for a Hanging, finds a corpse in a bullet-riddled portable toilet floating down river. The congregation assembled on the riverbank for a baptism is disturbed; the three young drunks discovered shooting at the toilet claim not to have known anyone was inside. The victim, a former hardware-store owner who had recently chained himself to the local Wal-Mart to protest the discount store's competitive edge, has an illegal cockfighting tool in his pocket. Then the dead man's widow is killed. The inhabitants of Blacklin, including Dan's shiftless deputies who are most interested in watching TV soaps and Oprah, have lots of generally bad advice for their sheriff, who has two murders to solve, two emus to find and a secret cockfighting ring to break up-all on a diet of health food prescribed by his concerned lady friend. Crider's humor is the warm kind, and his cast amiably eccentric. If his plot isn't entirely gripping, at least the image of the silver Sani-can gently bobbing in the water will linger in the reader's imagination.
+          —Publishers Weekly
+        </Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceLink>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/audiobook-covers/sdr_audiobook-cover_book-07.png</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintName>Crossroad Press</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>Crossroad Press</PublisherName>
+        <Website>
+          <WebsiteRole>01</WebsiteRole>
+          <WebsiteLink>https://crossroadpress.com</WebsiteLink>
+        </Website>
+      </Publisher>
+      <CityOfPublication>Hertford</CityOfPublication>
+      <CountryOfPublication>US</CountryOfPublication>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20201203</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>11</PublishingDateRole>
+        <Date dateformat="05">1994</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightType>C</CopyrightType>
+        <CopyrightYear>1994</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <CopyrightStatement>
+        <CopyrightType>P</CopyrightType>
+        <CopyrightYear>2020</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489244</IDValue>
+        </ProductIdentifier>
+        <ProductForm>EA</ProductForm>
+        <ProductFormDetail>E101</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>00</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489268</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BB</ProductForm>
+        <ProductFormDetail>B501</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>00</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489275</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BC</ProductForm>
+        <ProductFormDetail>B101</ProductFormDetail>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>01</SupplierRole>
+          <SupplierName>Crossroad Press</SupplierName>
+        </Supplier>
+        <ProductAvailability>20</ProductAvailability>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>14.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+</ONIXMessage>
