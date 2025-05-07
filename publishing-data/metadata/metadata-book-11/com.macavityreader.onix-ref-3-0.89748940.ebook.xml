@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Shotgun Saturday Night-->
+<!--A Romantic Way to Die-->
 <!--by Bill Crider-->
-<!--Sheriff Dan Rhodes Series Book 02-->
-<!--paperback-->
+<!--Sheriff Dan Rhodes Series Book 11-->
+<!--ebook-->
 <ONIXMessage release="3.0">
   <Header>
     <Sender>
@@ -13,62 +13,42 @@
     <SentDateTime></SentDateTime>
   </Header>
   <Product>
-    <RecordReference>com.macavityreader.onix.89748907.paperback</RecordReference>
+    <RecordReference>com.macavityreader.onix.89748940.ebook</RecordReference>
     <NotificationType>03</NotificationType>
     <ProductIdentifier>
       <ProductIDType>01</ProductIDType>
       <IDTypeName>ONIX_NOSEQ</IDTypeName>
-      <IDValue>9e529f71-7c48-42bf-bf22-41f4c51e0edb</IDValue>
+      <IDValue>9e529f71-7c8e-4831-bad5-bc668d4e8ba9</IDValue>
     </ProductIdentifier>
     <ProductIdentifier>
       <ProductIDType>15</ProductIDType>
-      <IDValue>9798897489077</IDValue>
+      <IDValue>9798897489404</IDValue>
     </ProductIdentifier>
     <ProductIdentifier>
       <ProductIDType>03</ProductIDType>
-      <IDValue>9798897489077</IDValue>
+      <IDValue>9798897489404</IDValue>
     </ProductIdentifier>
     <DescriptiveDetail>
       <ProductComposition>00</ProductComposition>
-      <ProductForm>BC</ProductForm>
-      <ProductFormDetail>B101</ProductFormDetail>
+      <ProductForm>EA</ProductForm>
+      <ProductFormDetail>E101</ProductFormDetail>
       <ProductPackaging>00</ProductPackaging>
       <PrimaryContentType>10</PrimaryContentType>
-      <Measure>
-        <MeasureType>01</MeasureType>
-        <Measurement>7</Measurement>
-        <MeasureUnitCode>in</MeasureUnitCode>
-      </Measure>
-      <Measure>
-        <MeasureType>02</MeasureType>
-        <Measurement>4.25</Measurement>
-        <MeasureUnitCode>in</MeasureUnitCode>
-      </Measure>
-      <Measure>
-        <MeasureType>03</MeasureType>
-        <Measurement>0.50</Measurement>
-        <MeasureUnitCode>in</MeasureUnitCode>
-      </Measure>
-      <Measure>
-        <MeasureType>08</MeasureType>
-        <Measurement>0.5</Measurement>
-        <MeasureUnitCode>lb</MeasureUnitCode>
-      </Measure>
       <CountryOfManufacture>US</CountryOfManufacture>
-      <EpubTechnicalProtection>00</EpubTechnicalProtection>
+      <EpubTechnicalProtection>02</EpubTechnicalProtection>
       <Collection>
         <CollectionType>10</CollectionType>
         <TitleDetail>
           <TitleType>01</TitleType>
           <TitleElement>
             <TitleElementLevel>02</TitleElementLevel>
-            <PartNumber>2</PartNumber>
+            <PartNumber>11</PartNumber>
             <NoPrefix />
-            <TitleWithoutPrefix>Shotgun Saturday Night</TitleWithoutPrefix>
+            <TitleWithoutPrefix>A Romantic Way to Die</TitleWithoutPrefix>
           </TitleElement>
           <TitleElement>
             <TitleElementLevel>01</TitleElementLevel>
-            <PartNumber>Book 2 of 25</PartNumber>
+            <PartNumber>Book 11 of 25</PartNumber>
           </TitleElement>
         </TitleDetail>
       </Collection>
@@ -76,9 +56,9 @@
         <TitleType>01</TitleType>
         <TitleElement>
           <TitleElementLevel>01</TitleElementLevel>
-          <PartNumber>1</PartNumber>
+          <PartNumber>11</PartNumber>
           <NoPrefix />
-          <TitleWithoutPrefix>Shotgun Saturday Night</TitleWithoutPrefix>
+          <TitleWithoutPrefix>A Romantic Way to Die</TitleWithoutPrefix>
         </TitleElement>
       </TitleDetail>
       <Contributor>
@@ -89,13 +69,13 @@
         <NamesBeforeKey>Bill</NamesBeforeKey>
         <KeyNames>Crider</KeyNames>
         <BiographicalNote textformat="07">
-        Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
 
-        Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
 
-        He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
 
-        www.billcrider.com
+          www.billcrider.com
         </BiographicalNote>
         <Website>
           <WebsiteRole>13</WebsiteRole>
@@ -113,7 +93,7 @@
       </Language>
       <Extent>
         <ExtentType>00</ExtentType>
-        <ExtentValue>280</ExtentValue>
+        <ExtentValue>224</ExtentValue>
         <ExtentUnit>03</ExtentUnit>
       </Extent>
       <Subject>
@@ -156,23 +136,21 @@
         <TextType>03</TextType>
         <ContentAudience>00</ContentAudience>
         <Text textformat="07">
-        A violent motorcycle gang turns up in Blacklin County.
-        
-        Sheriff Dan Rhodes knows it's going to be a bad day when Bert Ramsey arrives at the jail with a neatly wrapped arm and lays it on Rhodes’s desk. Bert has another out in the truck, he tells the sheriff, and "a couple of legs, too, but they don't match up."
+          Dan Rhodes, the sheriff of Blacklin County, Texas, has seen more than his share of strange events during his time in office-most recently he exorcised a ghost from the county jail and he has always tolerated the banter between his elderly jailer and dispatcher. However, not even Hack and Lawton's friendly word play could have prepared him for the group of writers that have descended upon Blacklin County. 
 
-        A heat wave arrives in Blacklin County along with Los Muertos, a violent motorcycle gang from the city. Then Bert Ramsey is found shot to death. There are questions: Where did the town handyman get the money to buy two color television sets, two VCRs, and a houseful of new furniture? Not to mention six thousand dollars in cash rolled up in a sock in Bert's dresser drawer. 
+          When Vernell Lindsey, Clearview's newly published romance novelist, decides to hold a romance writer's convention, residents think this will finally get their town on the map. They are even more excited when they learn that former Clearview resident Terry Don Coslin will headline the event-Terry Don is now the most sought after male cover model for these very novels. 
 
-        Dan Rhodes doesn't have access to the high-tech detection methods of city police—and probably wouldn't use them if he had. Rhodes has to talk to people and sift the facts from the lies. If he is careful, he believes, and keeps it up, he'll usually get results. "Keeping it up" involves tangling with Wyneva Greer, Ramsey's former girlfriend now living with a mysterious newcomer to the town, Buster Cullens. Buster becomes the next murder victim—of the same killer? Rhodes isn't sure. He soon tangles with the bikers, sustaining a certain amount of damage in the process.
+          Rhodes doesn't understand why so many people are interested in writing, but this becomes the least of his concerns when a local aspiring novelist is found dead in her room at the college. Was her death the work of a jealous rival? Or did her new book get a bit too close to certain people's real lives? As he investigates, Rhodes begins to learn more about the publishing industry and some sordid facts Terry Don. Is he at all connected to the murder? When another murder occurs, Rhodes receives the unwelcome aid of two aspiring novelists, eager to switch from romance to mysteries. Their theories are a little too far from the truth, but Rhodes does make some headway on his own. 
 
-        Meanwhile, back at the jail, his attenuated employees are bristling about the new deputy, a highly qualified police officer. Plus his personal life has its own problems; does he or does he not want to marry Ivy Daniel?
+          Relying on his trademark common sense and cunning and the help of his deputy sheriff Ruth Grady, Rhodes is able to solve the murders although he still can't figure out why so many people want to write a novel.
         </Text>
       </TextContent>
       <TextContent>
         <TextType>06</TextType>
         <ContentAudience>00</ContentAudience>
         <Text textformat="07">
-        That easy-going, empathetic, likeable Sheriff Dan Rhodes is up to his neck in a baffling case when a number of arms and legs are found on a trash pile in Blacklin County, Texas. Soon the man who found them is dead and Rhodes wends his way through a gang of rough bikers and assorted Texas types to find a few answers. In this second Rhodes novel (the first was Too Late To Die), Crider mixes just enough human foibles and the right amount of pathos to enhance a fast-moving tale of jealousy and folks gone wrong.
-        —JV Library Journal
+          Clearview, Tex., may seem a far cry from the shire-like coziness of England, but it has its smalltown gossips and eccentrics, even a ghost who for some reason prefers the county jail to a gloomy mansion, in Crider's 11th easy-going Sheriff Dan Rhodes procedural (Too Late to Die; Shotgun Saturday Night; etc.). Rhodes is a likable, low-key lawman, tough as, and when, he has to be. In this case he finds himself investigating two murders at a convention of romance novelists who have arrived in Blackin County. One of the victims is Terry Don Coslin, beefcake male star of many a paperback cover, who grew up in the county. Except for his apparently having slept with almost every woman at the convention, it's unclear why anyone wanted Terry Don dead. The first victim, Henrietta Bayam, is another story. Cattily, she let it be known that she was writing a novel in which she exposed her romance-writing colleagues for all their shortcomings. Before Rhodes is done, he will learn these ladies play rough. He is shot at, clubbed and nearly burned alive. A methodical man, the sheriff credibly solves the crimes. The author has missed a chance by presenting only the surface of the people who inhabit the romance world, though it may be he was being careful not to make anyone too identifiable. Still, there are enough Texas-style oddballs to liven up the tale. Crider fans will welcome this as eagerly as past entries.
+          —Publishers Weekly
         </Text>
       </TextContent>
       <SupportingResource>
@@ -181,7 +159,7 @@
         <ResourceMode>03</ResourceMode>
         <ResourceVersion>
           <ResourceForm>01</ResourceForm>
-          <ResourceLink>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/paperback-covers/sdr_paperback-cover_book-02.png</ResourceLink>
+          <ResourceLink>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/ebook-covers/sdr_ebook-cover_book-11.png</ResourceLink>
         </ResourceVersion>
       </SupportingResource>
     </CollateralDetail>
@@ -202,22 +180,22 @@
       <PublishingStatus>04</PublishingStatus>
       <PublishingDate>
         <PublishingDateRole>01</PublishingDateRole>
-        <Date dateformat="00">19891230</Date>
+        <Date dateformat="00">20250601</Date>
       </PublishingDate>
       <PublishingDate>
         <PublishingDateRole>11</PublishingDateRole>
-        <Date dateformat="05">1987</Date>
+        <Date dateformat="05">2001</Date>
       </PublishingDate>
       <CopyrightStatement>
         <CopyrightType>C</CopyrightType>
-        <CopyrightYear>1987</CopyrightYear>
+        <CopyrightYear>2001</CopyrightYear>
         <CopyrightOwner>
           <PersonName>Angela Crider Neary</PersonName>
         </CopyrightOwner>
       </CopyrightStatement>
       <CopyrightStatement>
         <CopyrightType>P</CopyrightType>
-        <CopyrightYear>2020</CopyrightYear>
+        <CopyrightYear>2025</CopyrightYear>
         <CopyrightOwner>
           <PersonName>Angela Crider Neary</PersonName>
         </CopyrightOwner>
@@ -234,16 +212,7 @@
         <ProductRelationCode>27</ProductRelationCode>
         <ProductIdentifier>
           <ProductIDType>15</ProductIDType>
-          <IDValue>9798897489046</IDValue>
-        </ProductIdentifier>
-        <ProductForm>EA</ProductForm>
-        <ProductFormDetail>E101</ProductFormDetail>
-      </RelatedProduct>
-      <RelatedProduct>
-        <ProductRelationCode>27</ProductRelationCode>
-        <ProductIdentifier>
-          <ProductIDType>15</ProductIDType>
-          <IDValue>9798897489053</IDValue>
+          <IDValue>9798897489411</IDValue>
         </ProductIdentifier>
         <ProductForm>AA</ProductForm>
         <ProductFormDetail>A109</ProductFormDetail>
@@ -252,10 +221,19 @@
         <ProductRelationCode>00</ProductRelationCode>
         <ProductIdentifier>
           <ProductIDType>15</ProductIDType>
-          <IDValue>9798897489060</IDValue>
+          <IDValue>9798897489428</IDValue>
         </ProductIdentifier>
         <ProductForm>BB</ProductForm>
         <ProductFormDetail>B501</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>00</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489435</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BC</ProductForm>
+        <ProductFormDetail>B101</ProductFormDetail>
       </RelatedProduct>
     </RelatedMaterial>
     <ProductSupply>
@@ -264,35 +242,10 @@
           <SupplierRole>01</SupplierRole>
           <SupplierName>Crossroad Press</SupplierName>
         </Supplier>
-        <ReturnsConditions>
-          <ReturnsCodeType>02</ReturnsCodeType>
-          <ReturnsCode>Y</ReturnsCode>
-        </ReturnsConditions>
         <ProductAvailability>20</ProductAvailability>
-        <PackQuantity>1</PackQuantity>
         <Price>
           <PriceType>01</PriceType>
-          <PriceAmount>12.95</PriceAmount>
-          <CurrencyCode>USD</CurrencyCode>
-          <Territory>
-            <CountriesIncluded>US</CountriesIncluded>
-          </Territory>
-        </Price>
-      </SupplyDetail>
-      <SupplyDetail>
-        <Supplier>
-          <SupplierRole>04</SupplierRole>
-          <SupplierName>Ingram Spark</SupplierName>
-        </Supplier>
-        <ReturnsConditions>
-          <ReturnsCodeType>02</ReturnsCodeType>
-          <ReturnsCode>Y</ReturnsCode>
-        </ReturnsConditions>
-        <ProductAvailability>12</ProductAvailability>
-        <PackQuantity>1</PackQuantity>
-        <Price>
-          <PriceType>05</PriceType>
-          <PriceAmount>12.95</PriceAmount>
+          <PriceAmount>3.99</PriceAmount>
           <CurrencyCode>USD</CurrencyCode>
           <Territory>
             <CountriesIncluded>US</CountriesIncluded>
