@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Winning Can Be Murder-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 08-->
+<!--hardcover-->
+<ONIXMessage release="3.0">
+  <Header>
+    <Sender>
+      <SenderName></SenderName>
+      <ContactName></ContactName>
+      <EmailAddress></EmailAddress>
+    </Sender>
+    <SentDateTime></SentDateTime>
+  </Header>
+  <Product>
+    <RecordReference>com.macavityreader.onix.89748930.hardcover</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>01</ProductIDType>
+      <IDTypeName>ONIX_NOSEQ</IDTypeName>
+      <IDValue>9e529f71-7c73-4908-8455-cbd6b3860267</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9798897489305</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9798897489305</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BB</ProductForm>
+      <ProductFormDetail>B501</ProductFormDetail>
+      <ProductPackaging>00</ProductPackaging>
+      <PrimaryContentType>10</PrimaryContentType>
+      <Measure>
+        <MeasureType>01</MeasureType>
+        <Measurement>8.5</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>02</MeasureType>
+        <Measurement>5.5</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>03</MeasureType>
+        <Measurement>0.5</Measurement>
+        <MeasureUnitCode>in</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>08</MeasureType>
+        <Measurement>1.0</Measurement>
+        <MeasureUnitCode>lb</MeasureUnitCode>
+      </Measure>
+      <CountryOfManufacture>US</CountryOfManufacture>
+      <EpubTechnicalProtection>00</EpubTechnicalProtection>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <PartNumber>8</PartNumber>
+            <NoPrefix />
+            <TitleWithoutPrefix>Winning Can Be Murder</TitleWithoutPrefix>
+          </TitleElement>
+          <TitleElement>
+            <TitleElementLevel>01</TitleElementLevel>
+            <PartNumber>Book 8 of 25</PartNumber>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <PartNumber>8</PartNumber>
+          <NoPrefix />
+          <TitleWithoutPrefix>Winning Can Be Murder</TitleWithoutPrefix>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Bill Crider</PersonName>
+        <PersonNameInverted>Crider, Bill</PersonNameInverted>
+        <NamesBeforeKey>Bill</NamesBeforeKey>
+        <KeyNames>Crider</KeyNames>
+        <BiographicalNote textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </BiographicalNote>
+        <Website>
+          <WebsiteRole>13</WebsiteRole>
+          <WebsiteLink>https://sheriffdanrhodes.com</WebsiteLink>
+        </Website>
+        <ContributorPlace>
+          <ContributorPlaceRelator>07</ContributorPlaceRelator>
+          <CountryCode>US</CountryCode>
+        </ContributorPlace>
+      </Contributor>
+      <EditionNumber>1</EditionNumber>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>238</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC022020</SubjectCode>
+        <SubjectHeadingText>FICTION / Mystery &amp; Detective / Police Procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>FFP</SubjectCode>
+        <SubjectHeadingText>Crime and mystery: police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>11</SubjectSchemeIdentifier>
+        <SubjectCode>4.0.1.5.8.0.0</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>1KBBSX</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Sheriff Dan Rhodes; Blacklin Co.; police procedural</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <MainSubject />
+        <SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+        <SubjectCode>1KBB-US-SWT</SubjectCode>
+        <SubjectHeadingText>Texas</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          It's been a while since Sheriff Dan Rhodes's football days, but things haven't really changed, at least not with state playoffs coming up and excitement for the local high school team heating up to a fever pitch. But then coach Brady Meredith is found shot to death in his car, and his murder leads to troublesome rumors concerning illegal betting, black market steroids and the sheriff's old nemesis, a biker named Rapper, who has reappeared in Blacklin County. Too many coincidences for Rhodes's comfort. Especially when another corpse makes it a second down for a killer determined to lead Sheriff Rhodes into a game of sudden death.
+        </Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="07">
+          Sheriff Dan Rhodes is an honest man, a quiet man and a stubborn man. It is pleasant to make his acquaintance.
+          —The New York Times Book Review
+        </Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceLink>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/hardcover-covers/sdr_hardcover-cover_book-08.png</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintName>Crossroad Press</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>Crossroad Press</PublisherName>
+        <Website>
+          <WebsiteRole>01</WebsiteRole>
+          <WebsiteLink>https://crossroadpress.com</WebsiteLink>
+        </Website>
+      </Publisher>
+      <CityOfPublication>Hertford</CityOfPublication>
+      <CountryOfPublication>US</CountryOfPublication>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">19960101</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>11</PublishingDateRole>
+        <Date dateformat="05">1996</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightType>C</CopyrightType>
+        <CopyrightYear>1996</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <CopyrightStatement>
+        <CopyrightType>P</CopyrightType>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName>Angela Crider Neary</PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489282</IDValue>
+        </ProductIdentifier>
+        <ProductForm>EA</ProductForm>
+        <ProductFormDetail>E101</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>27</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489299</IDValue>
+        </ProductIdentifier>
+        <ProductForm>AA</ProductForm>
+        <ProductFormDetail>A109</ProductFormDetail>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>29</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9798897489312</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BC</ProductForm>
+        <ProductFormDetail>B101</ProductFormDetail>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>01</SupplierRole>
+          <SupplierName>Crossroad Press</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>Y</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>20</ProductAvailability>
+        <PackQuantity>1</PackQuantity>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>19.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>04</SupplierRole>
+          <SupplierName>Ingram Spark</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>Y</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>12</ProductAvailability>
+        <PackQuantity>1</PackQuantity>
+        <Price>
+          <PriceType>05</PriceType>
+          <PriceAmount>19.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <CountriesIncluded>US</CountriesIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+</ONIXMessage>

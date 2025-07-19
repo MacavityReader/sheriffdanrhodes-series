@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Winning Can Be Murder-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 08-->
+<!--audiobook-->
+<ONIXmessage release="3.0">
+  <header>
+    <sender>
+      <x298></x298>
+      <x299></x299>
+      <j272></j272>
+    </sender>
+    <x307></x307>
+  </header>
+  <product>
+    <a001>com.macavityreader.onix.89748929.audiobook</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>01</b221>
+      <b233>ONIX_NOSEQ</b233>
+      <b244>9e529f71-7c71-4e1b-83b4-04d078862cd2</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9798897489299</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9798897489299</b244>
+    </productidentifier>
+    <descriptivedetail>
+      <x314>00</x314>
+      <b012>AO</b012>
+      <b333>A109</b333>
+      <b225>00</b225>
+      <x416>10</x416>
+      <x316>US</x316>
+      <x317>02</x317>
+      <collection>
+        <x329>10</x329>
+        <titledetail>
+          <b202>01</b202>
+          <titleelement>
+            <x409>02</x409>
+            <x410>8</x410>
+            <x501 />
+            <b031>Winning Can Be Murder</b031>
+          </titleelement>
+          <titleelement>
+            <x409>01</x409>
+            <x410>Book 8 of 25</x410>
+          </titleelement>
+        </titledetail>
+      </collection>
+      <titledetail>
+        <b202>01</b202>
+        <titleelement>
+          <x409>01</x409>
+          <x410>8</x410>
+          <x501 />
+          <b031>Winning Can Be Murder</b031>
+        </titleelement>
+      </titledetail>
+      <contributor>
+        <b034>1</b034>
+        <b035>A01</b035>
+        <b036>Bill Crider</b036>
+        <b037>Crider, Bill</b037>
+        <b039>Bill</b039>
+        <b040>Crider</b040>
+        <b044 textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </b044>
+        <website>
+          <b367>13</b367>
+          <b295>https://sheriffdanrhodes.com</b295>
+        </website>
+        <contributorplace>
+          <x418>07</x418>
+          <b251>US</b251>
+        </contributorplace>
+      </contributor>
+      <b057>1</b057>
+      <language>
+        <b253>01</b253>
+        <b252>eng</b252>
+      </language>
+      <extent>
+        <b218>09</b218>
+        <b219>306.0</b219>
+        <b220>05</b220>
+      </extent>
+      <subject>
+        <b067>10</b067>
+        <b069>FIC022020</b069>
+        <b070>FICTION / Mystery &amp; Detective / Police Procedural</b070>
+      </subject>
+      <subject>
+        <b067>93</b067>
+        <b069>FFP</b069>
+        <b070>Crime and mystery: police procedural</b070>
+      </subject>
+      <subject>
+        <b067>11</b067>
+        <b069>4.0.1.5.8.0.0</b069>
+        <b070>Texas</b070>
+      </subject>
+      <subject>
+        <b067>12</b067>
+        <b069>1KBBSX</b069>
+        <b070>Texas</b070>
+      </subject>
+      <subject>
+        <b067>20</b067>
+        <b070>Sheriff Dan Rhodes; Blacklin Co.; police procedural</b070>
+      </subject>
+      <subject>
+        <x425 />
+        <b067>94</b067>
+        <b069>1KBB-US-SWT</b069>
+        <b070>Texas</b070>
+      </subject>
+      <audience>
+        <b204>01</b204>
+        <b206>01</b206>
+      </audience>
+    </descriptivedetail>
+    <collateraldetail>
+      <textcontent>
+        <x426>03</x426>
+        <x427>00</x427>
+        <d104 textformat="07">
+          It's been a while since Sheriff Dan Rhodes's football days, but things haven't really changed, at least not with state playoffs coming up and excitement for the local high school team heating up to a fever pitch. But then coach Brady Meredith is found shot to death in his car, and his murder leads to troublesome rumors concerning illegal betting, black market steroids and the sheriff's old nemesis, a biker named Rapper, who has reappeared in Blacklin County. Too many coincidences for Rhodes's comfort. Especially when another corpse makes it a second down for a killer determined to lead Sheriff Rhodes into a game of sudden death.
+        </d104>
+      </textcontent>
+      <textcontent>
+        <x426>06</x426>
+        <x427>00</x427>
+        <d104 textformat="07">
+          Texans take their high-school football seriously-seriously enough for murder in the eighth Sheriff Dan Rhodes mystery (after Murder Most Fowl). For the first time since 1949, Clearview has a shot at the state championship, and the town is ecstatic. In the final seconds of a grueling, fight-filled game in which Clearview trails by one after scoring a touchdown, an argument erupts on the sidelines between head coach Jasper Knowles and offensive coach Brady Meredith. Knowles goes for two and wins the game. The next day, Meredith turns up dead. Rhodes, who knows the town's oddsmaker was also at the game, suspects a point-shaving scheme. The town sports reporter tells him that Meredith had been playing around with a fellow coach's wife, and there are rumors that someone might have been providing steroids for the team. The steroid angle looks good when Rhodes finds out that a drug-dealing biker is back in town. A second murder temporarily throws him off the scent, but, slowly and surely, the poised sheriff questions his way through the high-school sports hierarchy until he uncovers the killer. Although some good-old-boy shenanigans spice up the straightforward investigation, Crider keeps a leisurely pace. In fact, his writing is nearly as phlegmatic as the methodical, unrattled Rhodes.
+          —Publishers Weekly
+        </d104>
+      </textcontent>
+      <supportingresource>
+        <x436>01</x436>
+        <x427>00</x427>
+        <x437>03</x437>
+        <resourceversion>
+          <x441>01</x441>
+          <x435>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/audiobook-covers/sdr_audiobook-cover_book-08.png</x435>
+        </resourceversion>
+      </supportingresource>
+    </collateraldetail>
+    <publishingdetail>
+      <imprint>
+        <b079>Crossroad Press</b079>
+      </imprint>
+      <publisher>
+        <b291>01</b291>
+        <b081>Crossroad Press</b081>
+        <website>
+          <b367>01</b367>
+          <b295>https://crossroadpress.com</b295>
+        </website>
+      </publisher>
+      <b209>Hertford</b209>
+      <b083>US</b083>
+      <b394>04</b394>
+      <publishingdate>
+        <x448>01</x448>
+        <b306 dateformat="00">20210301</b306>
+      </publishingdate>
+      <publishingdate>
+        <x448>11</x448>
+        <b306 dateformat="05">1996</b306>
+      </publishingdate>
+      <copyrightstatement>
+        <x512>C</x512>
+        <b087>1996</b087>
+        <copyrightowner>
+          <b036>Angela Crider Neary</b036>
+        </copyrightowner>
+      </copyrightstatement>
+      <copyrightstatement>
+        <x512>P</x512>
+        <b087>2021</b087>
+        <copyrightowner>
+          <b036>Angela Crider Neary</b036>
+        </copyrightowner>
+      </copyrightstatement>
+      <salesrights>
+        <b089>01</b089>
+        <territory>
+          <x450>WORLD</x450>
+        </territory>
+      </salesrights>
+    </publishingdetail>
+    <relatedmaterial>
+      <relatedproduct>
+        <x455>27</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489282</b244>
+        </productidentifier>
+        <b012>EA</b012>
+        <b333>E101</b333>
+      </relatedproduct>
+      <relatedproduct>
+        <x455>00</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489305</b244>
+        </productidentifier>
+        <b012>BB</b012>
+        <b333>B501</b333>
+      </relatedproduct>
+      <relatedproduct>
+        <x455>00</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489312</b244>
+        </productidentifier>
+        <b012>BC</b012>
+        <b333>B101</b333>
+      </relatedproduct>
+    </relatedmaterial>
+    <productsupply>
+      <supplydetail>
+        <supplier>
+          <j292>01</j292>
+          <j137>Crossroad Press</j137>
+        </supplier>
+        <j396>20</j396>
+        <price>
+          <x462>01</x462>
+          <j151>14.95</j151>
+          <j152>USD</j152>
+          <territory>
+            <x449>US</x449>
+          </territory>
+        </price>
+      </supplydetail>
+    </productsupply>
+  </product>
+</ONIXmessage>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Death By Accident-->
+<!--by Bill Crider-->
+<!--Sheriff Dan Rhodes Series Book 09-->
+<!--paperback-->
+<ONIXmessage release="3.0">
+  <header>
+    <sender>
+      <x298></x298>
+      <x299></x299>
+      <j272></j272>
+    </sender>
+    <x307></x307>
+  </header>
+  <product>
+    <a001>com.macavityreader.onix.89748935.paperback</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>01</b221>
+      <b233>ONIX_NOSEQ</b233>
+      <b244>9e529f71-7c81-4cfc-a0cb-f382d3aa8b1a</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9798897489350</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9798897489350</b244>
+    </productidentifier>
+    <descriptivedetail>
+      <x314>00</x314>
+      <b012>BC</b012>
+      <b333>B101</b333>
+      <b225>00</b225>
+      <x416>10</x416>
+      <measure>
+        <x315>01</x315>
+        <c094>7</c094>
+        <c095>in</c095>
+      </measure>
+      <measure>
+        <x315>02</x315>
+        <c094>4.25</c094>
+        <c095>in</c095>
+      </measure>
+      <measure>
+        <x315>03</x315>
+        <c094>0.50</c094>
+        <c095>in</c095>
+      </measure>
+      <measure>
+        <x315>08</x315>
+        <c094>0.5</c094>
+        <c095>lb</c095>
+      </measure>
+      <x316>US</x316>
+      <x317>00</x317>
+      <collection>
+        <x329>10</x329>
+        <titledetail>
+          <b202>01</b202>
+          <titleelement>
+            <x409>02</x409>
+            <x410>9</x410>
+            <x501 />
+            <b031>Death By Accident</b031>
+          </titleelement>
+          <titleelement>
+            <x409>01</x409>
+            <x410>Book 9 of 25</x410>
+          </titleelement>
+        </titledetail>
+      </collection>
+      <titledetail>
+        <b202>01</b202>
+        <titleelement>
+          <x409>01</x409>
+          <x410>9</x410>
+          <x501 />
+          <b031>Des</b031>
+        </titleelement>
+      </titledetail>
+      <contributor>
+        <b034>1</b034>
+        <b035>A01</b035>
+        <b036>Bill Crider</b036>
+        <b037>Crider, Bill</b037>
+        <b039>Bill</b039>
+        <b040>Crider</b040>
+        <b044 textformat="07">
+          Bill Crider (1941-2018) was one of the best mystery novel authors in America. He is the Anthony Award-winning author of the Sheriff Dan Rhodes series.
+
+          Bill wrote multiple book series including the Truman Smith series, the Carl Burns series, and the Sally Good series. His short story "Cranked,” which appeared in the anthology, Damn Near Dead, was a finalist for an Edgar Award, and won the Derringer Award for excellence in short mystery fiction.
+
+          He served for many years as chair of the Division of English and Fine Arts at Alvin Community College. Bill was married to Judy Crider and they lived in Alvin, Texas.
+
+          www.billcrider.com
+        </b044>
+        <website>
+          <b367>13</b367>
+          <b295>https://sheriffdanrhodes.com</b295>
+        </website>
+        <contributorplace>
+          <x418>07</x418>
+          <b251>US</b251>
+        </contributorplace>
+      </contributor>
+      <b057>1</b057>
+      <language>
+        <b253>01</b253>
+        <b252>eng</b252>
+      </language>
+      <extent>
+        <b218>00</b218>
+        <b219>280</b219>
+        <b220>03</b220>
+      </extent>
+      <subject>
+        <b067>10</b067>
+        <b069>FIC022020</b069>
+        <b070>FICTION / Mystery &amp; Detective / Police Procedural</b070>
+      </subject>
+      <subject>
+        <b067>93</b067>
+        <b069>FFP</b069>
+        <b070>Crime and mystery: police procedural</b070>
+      </subject>
+      <subject>
+        <b067>11</b067>
+        <b069>4.0.1.5.8.0.0</b069>
+        <b070>Texas</b070>
+      </subject>
+      <subject>
+        <b067>12</b067>
+        <b069>1KBBSX</b069>
+        <b070>Texas</b070>
+      </subject>
+      <subject>
+        <b067>20</b067>
+        <b070>Sheriff Dan Rhodes; Blacklin Co.; police procedural</b070>
+      </subject>
+      <subject>
+        <x425 />
+        <b067>94</b067>
+        <b069>1KBB-US-SWT</b069>
+        <b070>Texas</b070>
+      </subject>
+      <audience>
+        <b204>01</b204>
+        <b206>01</b206>
+      </audience>
+    </descriptivedetail>
+    <collateraldetail>
+      <textcontent>
+        <x426>03</x426>
+        <x427>00</x427>
+        <d104 textformat="07">
+          Texas Sheriff Dan Rhodes' cases usually concern the bad boys of rural Blacklin County, or the slightly wacky citizens who are causing trouble that tends to be funny rather than criminal. But although at first the dead man floating in the old swimming pool at the edge of town seems to have been an accident victim — a staggering drunk tumbling into the water — Rhodes and his small but colorful staff soon uncover murder. 
+
+          It's the second strange death in two weeks (the other was that of John West, killed when he blew up carrying a gasoline can across a field). But where was the Cherokee wagon John was carrying the gas to? And why is his widow so jaunty? West was a solid citizen; Pep Yeldell, the swimming pool decedent, was a man with many enemies. In his quiet way, Rhodes goes about looking for a connection and a killer — a quest that takes Rhodes, no athlete now in spite of his wife's efforts to keep him on a diet of little meat and lots of greens, up a tree and puts him at the mercy of a vicious killer.
+        </d104>
+      </textcontent>
+      <textcontent>
+        <x426>06</x426>
+        <x427>00</x427>
+        <d104 textformat="07">
+          This is the ninth novel featuring Texan Dan Rhodes, a small-town sheriff faced with big-city problems—in this case, two suspicious "accidental" deaths within two weeks, not to mention a squabble between two local historical societies that threatens to get nasty (and violent) at any moment. This is a gentle mystery more concerned with character and story than gunplay and tough-guy cliches. Rhodes is an appealing character, a quiet man surrounded by supporting cast members who are (unlike many supporting characters) as vivid as any real-life next-door neighbors. And it's a pleasure to watch him solve this case through intelligence, wit, and just a little bit of luck. Fans will definitely be satisfied, while readers new to the series will find this an excellent way to make Sheriff Rhodes' acquaintance.
+          — Booklist, David Pitt
+        </d104>
+      </textcontent>
+      <supportingresource>
+        <x436>01</x436>
+        <x427>00</x427>
+        <x437>03</x437>
+        <resourceversion>
+          <x441>01</x441>
+          <x435>https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/covers/paperback-covers/sdr_paperback-cover_book-09.png</x435>
+        </resourceversion>
+      </supportingresource>
+    </collateraldetail>
+    <publishingdetail>
+      <imprint>
+        <b079>Crossroad Press</b079>
+      </imprint>
+      <publisher>
+        <b291>01</b291>
+        <b081>Crossroad Press</b081>
+        <website>
+          <b367>01</b367>
+          <b295>https://crossroadpress.com</b295>
+        </website>
+      </publisher>
+      <b209>Hertford</b209>
+      <b083>US</b083>
+      <b394>04</b394>
+      <publishingdate>
+        <x448>01</x448>
+        <b306 dateformat="00">20000301</b306>
+      </publishingdate>
+      <publishingdate>
+        <x448>11</x448>
+        <b306 dateformat="05">1998</b306>
+      </publishingdate>
+      <copyrightstatement>
+        <x512>C</x512>
+        <b087>1998</b087>
+        <copyrightowner>
+          <b036>Angela Crider Neary</b036>
+        </copyrightowner>
+      </copyrightstatement>
+      <copyrightstatement>
+        <x512>P</x512>
+        <b087>2021</b087>
+        <copyrightowner>
+          <b036>Angela Crider Neary</b036>
+        </copyrightowner>
+      </copyrightstatement>
+      <salesrights>
+        <b089>01</b089>
+        <territory>
+          <x450>WORLD</x450>
+        </territory>
+      </salesrights>
+    </publishingdetail>
+    <relatedmaterial>
+      <relatedproduct>
+        <x455>27</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489329</b244>
+        </productidentifier>
+        <b012>EA</b012>
+        <b333>E101</b333>
+      </relatedproduct>
+      <relatedproduct>
+        <x455>27</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489336</b244>
+        </productidentifier>
+        <b012>AA</b012>
+        <b333>A109</b333>
+      </relatedproduct>
+      <relatedproduct>
+        <x455>00</x455>
+        <productidentifier>
+          <b221>15</b221>
+          <b244>9798897489343</b244>
+        </productidentifier>
+        <b012>BB</b012>
+        <b333>B501</b333>
+      </relatedproduct>
+    </relatedmaterial>
+    <productsupply>
+      <supplydetail>
+        <supplier>
+          <j292>01</j292>
+          <j137>Crossroad Press</j137>
+        </supplier>
+        <returnsconditions>
+          <j268>02</j268>
+          <j269>Y</j269>
+        </returnsconditions>
+        <j396>20</j396>
+        <j145>1</j145>
+        <price>
+          <x462>01</x462>
+          <j151>12.95</j151>
+          <j152>USD</j152>
+          <territory>
+            <x449>US</x449>
+          </territory>
+        </price>
+      </supplydetail>
+      <supplydetail>
+        <supplier>
+          <j292>04</j292>
+          <j137>Ingram Spark</j137>
+        </supplier>
+        <returnsconditions>
+          <j268>02</j268>
+          <j269>Y</j269>
+        </returnsconditions>
+        <j396>12</j396>
+        <j145>1</j145>
+        <price>
+          <x462>05</x462>
+          <j151>12.95</j151>
+          <j152>USD</j152>
+          <territory>
+            <x449>US</x449>
+          </territory>
+        </price>
+      </supplydetail>
+    </productsupply>
+  </product>
+</ONIXmessage>
