@@ -14,7 +14,11 @@ This digital publishing data is provided *"As Is",* without warranty of any kind
  + [ISBN Schedule](https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/publishing-data/isbn-schedule.md)  
  + [Book Summary Schedule](https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/publishing-data/book-summary-schedule.md)  
  + [Metadata](https://github.com/MacavityReader/sheriffdanrhodes-series/blob/main/publishing-data/metadata/)  
-   
+ 
+  **Covers**  
+ + [eBook Covers](https://github.com/MacavityReader/sheriffdanrhodes-series/tree/main/covers/ebook-covers)  
+ + [audioBook Covers](https://github.com/MacavityReader/sheriffdanrhodes-series/tree/main/covers/audiobook-covers)  
+ 
  **Temporary Covers**  
  + [Temporary eBook Covers](https://github.com/MacavityReader/sheriffdanrhodes-series/tree/main/covers-temp/ebook-temp-covers)  
  + [Temporary audioBook Covers](https://github.com/MacavityReader/sheriffdanrhodes-series/tree/main/covers-temp/audiobook-temp-covers)  
