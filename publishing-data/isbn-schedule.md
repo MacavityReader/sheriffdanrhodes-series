@@ -7,9 +7,10 @@ Sheriff Dan Rhodes Series
   
 25 Titles   
 `ebook | audiobook | hardcover | mass market paperback `  
-ISBN Titles 0-99  
-Publisher: *Crossroad Press*  
-  
+100 ISBN Assignments 0-99  
+
+Publisher: Crossroad Press, *United States of America*  
+Publisher's ISBN Prefix: 979-8-89748
 
 | ISBN                | Book #|      Book Type         | Title                           | Copyright| Holder              | Work First Published | Latest Publication Date | Metadata              |
 | :-----------        | :---: |       :---------       | :-------------------------:     | :-------:| :---------          | :---------:          | :---------:             | :---------:           |
